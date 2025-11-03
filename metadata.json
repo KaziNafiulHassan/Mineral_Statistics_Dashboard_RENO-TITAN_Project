@@ -1,0 +1,5 @@
+{
+  "name": "Heavy Mineral Sands Dashboard",
+  "description": "A web application to help scientists and planners compare production and trade series for heavy-mineral sands like titanium and zirconium ores, with data overlays from USGS and BGS, and material flow visualizations.",
+  "requestFramePermissions": []
+}
